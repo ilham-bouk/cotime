@@ -9,17 +9,17 @@ const Testimonial = () => {
     {
       id: 1,
       name: "Sarah Johnson",
-      text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore quasi perferendis quia excepturi numquam. Autem ratione, blanditiis exercitationem velit ea quam iure enim, facere culpa hic incidunt, nobis voluptatum. Qui."
+      text: "From the moment you walk in, you're greeted with the rich aroma of freshly roasted beans. Their pastries are divine, especially the croissants. This is coffee culture at its finest."
     },
     {
       id: 2,
       name: "Michael Chen",
-      text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore quasi perferendis quia excepturi numquam."
+      text: "CoTime has become my daily sanctuary. Their artisan coffee is crafted to perfection, and the warm ambiance makes every visit feel like coming home. The baristas truly know their craft!"
     },
     {
       id: 3,
       name: "Emily Rodriguez",
-      text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore quasi perferendis quia excepturi numquam. Autem ratione, blanditiis exercitationem velit ea quam iure enim."
+      text: "As a remote worker, I've tried many coffee shops, but CoTime stands out. Fast WiFi, comfortable seating, and the best cappuccino in town. It's my office away from office."
     }
   ];
 

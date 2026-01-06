@@ -30,8 +30,8 @@ const Contact = () => {
               <p
               className="text-gray-700 text-sm"
               data-aos='fade-up' data-aos-delay='500' data-aos-duration='500'>
-                123 First Street
-                <br />NewYork City, DC 12345
+                123 Coffee Street
+                <br />New York, NY 10001
               </p>
             </div>
 
@@ -72,8 +72,8 @@ const Contact = () => {
               <p
               className="text-gray-700 text-sm"
               data-aos='fade-up' data-aos-delay='500' data-aos-duration='500'>
-                Daily: 8AM - 9PM
-                <br />Weekends: 10AM -10PM
+                Mon - Fri: 7AM - 8PM
+                <br />Sat - Sun: 9AM -10PM
               </p>
             </div>
           </div>

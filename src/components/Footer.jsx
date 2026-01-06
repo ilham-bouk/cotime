@@ -9,7 +9,7 @@ const Footer = () => {
             <span className="text-2xl font-bold text-gray-900">
               Co<span className="text-[#b6723c]">Time</span>
             </span>
-            <p className="text-gray-600 text-sm mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi placeat nulla enim inventore optio deleniti, eum quod libero dolores doloribus maiores eos soluta est impedit cum dignissimos quam ad eligendi!</p>
+            <p className="text-gray-600 text-sm mt-4">Brewing excellence since 2015. Every cup, a masterpiece.</p>
           </div>
 
           <div className="text-left md:text-right">
