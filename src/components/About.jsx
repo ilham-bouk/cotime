@@ -1,5 +1,6 @@
 import { Coffee, Croissant, Heart } from "lucide-react"
-import about from '../assets/about.jpg'
+import about1 from '../assets/about1.png'
+import about2 from '../assets/about2.png'
 
 const About = () => {
   return (
@@ -51,12 +52,12 @@ const About = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="relative transform rotate-2"
               data-aos='fade-left' data-aos-delay='600' data-aos-duration='1000'>
-                <img src={about} alt="Coffee"
+                <img src={about1} alt="Coffee"
                 className="rounded-2xl shadow-lg w-full h-48 md:h-64 object-cover border-4 border-white hover:scale-105 transition-transform duration-300" />
               </div>
               <div className="relative transform -rotate-2 mt-8"
               data-aos='fade-left' data-aos-delay='600' data-aos-duration='1200'>
-                <img src={about} alt="Coffee"
+                <img src={about2} alt="Coffee"
                 className="rounded-2xl shadow-lg w-full h-48 md:h-64 object-cover border-4 border-white hover:scale-105 transition-transform duration-300" />
               </div>
             </div>
