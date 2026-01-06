@@ -1,4 +1,4 @@
-import { Coffee, Heart, Star } from "lucide-react"
+import { Coffee, Croissant, Heart } from "lucide-react"
 import about from '../assets/about.jpg'
 
 const About = () => {
@@ -11,21 +11,21 @@ const About = () => {
           <div className="max-w-lg text-center lg:text-left space-y-6 z-10 lg:mr-8">
             <p className="tracking-widest text-[#8b5e34] font-semibold"
             data-aos='fade-down' data-aos-delay='300' data-aos-duration='800'>
-              CoTime Beginnings
+              COTIME BEGINNINGS
             </p>
             <div data-aos='fade-right' data-aos-delay='800'>
               <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight">
-                Our <span className="text-[#b6723c]">Delicious</span> Story
+                The Story Behind <span className="text-[#b6723c]">Every Cup</span>
               </h1>
             </div>
             <div className="space-y-4 text-gray-700">
               <p className="leading-relaxed"
               data-aos='fade-up' data-aos-delay='700' data-aos-duration='800'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit beatae, facilis sit delectus modi quibusdam saepe ullam. Alias, excepturi aperiam?
+                Founded in 2015, CoTime began as a dream to create a gathering place where quality coffee meets community warmth. We source our beans from ethical farms across the globe, ensuring every cup supports sustainable practices and delivers exceptional taste.
               </p>
               <p className="leading-relaxed"
               data-aos='fade-up' data-aos-delay='900' data-aos-duration='800'>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus ipsum alias nostrum libero harum optio quia inventore ratione dolorum, beatae, facilis sit delectus modi quibusdam saepe ullam. Facilis sit delectus modi quibusdam saepe ullam.
+                Our master roasters carefully craft each blend to bring out unique flavor profiles, while our talented bakers create fresh pastries daily. At CoTime, we believe coffee is more than a beverage—it's an experience, a moment of connection, and a celebration of craftsmanship.
               </p>
             </div>
 
@@ -33,17 +33,17 @@ const About = () => {
               <div className="flex items-center gap-2"
               data-aos='flip-left' data-aos-delay='1000'>
                 <Coffee className="w-5 h-5 text-[#8b5e34]" />
-                <span className="text-gray-700">Fresh Coffee</span>
+                <span className="text-gray-700">Premium Beans</span>
               </div>
               <div className="flex items-center gap-2"
               data-aos='flip-left' data-aos-delay='1200'>
-                <Heart className="w-5 h-5 text-[#8b5e34]" />
-                <span className="text-gray-700">Hand Crafted</span>
+                <Croissant className="w-5 h-5 text-[#8b5e34]" />
+                <span className="text-gray-700">Expert Baristas</span>
               </div>
               <div className="flex items-center gap-2"
               data-aos='flip-left' data-aos-delay='1400'>
-                <Star className="w-5 h-5 text-[#8b5e34]" />
-                <span className="text-gray-700">Award Winning</span>
+                <Heart className="w-5 h-5 text-[#8b5e34]" />
+                <span className="text-gray-700">Cozy Atmosphere</span>
               </div>
             </div>
           </div>

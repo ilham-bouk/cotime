@@ -15,16 +15,16 @@ const Hero = () => {
           </p>
           <div data-aos='fade-right' data-aos-delay='500'>
             <h1 className="text-5xl md:text-6xl font-extrabold text-gray-900 leading-tight">
-              Homemade Cakes with{" "}
+              Artisan Coffee with{" "}
               <span
               data-aos='fade-right' data-aos-delay='700'
               className="text-[#b6723c] block md:inline">
-                Delicious Flavors
+                Exceptional Taste
               </span>
             </h1>
           </div>
           <p data-aos='fade-up' data-aos-delay='900' className="text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum eveniet assumenda quia recusandae animi, sint eos doloribus, error quisquam ea quidem rerum quibusdam
+            Experience the perfect blend of artisan coffee and homemade pastries. Every cup tells a story, crafted with passion using the finest beans from sustainable farms.
           </p>
           <div data-aos='flip-up' data-aos-delay='1100'>
             <button className="bg-[#2d2d2d] text-white px-8 py-3 rounded-full hover:bg-[#444] transition-all duration-300 hover:scale-105 shadow-lg cursor-pointer">
