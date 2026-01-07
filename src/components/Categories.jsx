@@ -9,19 +9,17 @@ const Categories = () => {
     {
       id: 1,
       name: 'Tea & More',
-      count: '3',
+      count: '2',
       color: 'bg-[#fce7f3]',
       textColor: 'text-[#b91c1c]',
-      colSpan: 'row-span-1',
       image: category1
     },
     {
       id: 2,
       name: 'Pastries',
       count: '2',
-      color: 'bg-[#fde68a]',
+      color: 'bg-orange-100',
       textColor: 'text-[#92400e]',
-      colSpan: 'row-span-2',
       image: category2
     },
     {
@@ -30,26 +28,22 @@ const Categories = () => {
       count: '5',
       color: 'bg-[#fde68a]',
       textColor: 'text-[#92400e]',
-      colSpan: 'row-span-1',
-      image: category3,
-      big: true
+      image: category3
     },
     {
       id: 4,
       name: 'Iced Drinks',
-      count: '1',
-      color: 'bg-[#fecaca]',
+      count: '2',
+      color: 'bg-blue-100',
       textColor: 'text-[#7f1d1d]',
-      colSpan: 'row-span-1',
       image: category4
     },
     {
       id: 5,
       name: 'Bagels',
       count: '1',
-      color: 'bg-[#d1fae5]',
+      color: 'bg-yellow-100',
       textColor: 'text-[#064e3b]',
-      colSpan: 'row-span-1',
       image: category5
     },
   ]
