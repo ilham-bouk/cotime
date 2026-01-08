@@ -12,15 +12,14 @@ A stylish, responsive coffee shop website crafted with React and Vite, designed 
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
 ## Overview
 
-**CoTime** is a beautifully crafted React based website designed to showcase an artisan coffee shop, its menu, atmosphere, and story. Built with Vite and styled using TailwindCSS, CoTime delivers a modern, responsive, and interactive single-page experience, bringing coffee culture and community spirit to the digital world.
+**CoTime** is a beautifully crafted React based website designed to showcase an artisan coffee shop, its menu, atmosphere, and story. Built with React and styled using TailwindCSS, CoTime delivers a modern, responsive, and interactive single page experience, bringing coffee culture and community spirit to the digital world.
 
-Visitors can explore featured menu items, read testimonials, learn about the shop's history and values, view product categories, and easily find contact information and get directions. Engaging animations powered by AOS, and vibrant design elements make CoTime both elegant and user-friendly.
+Visitors can explore featured menu items, read testimonials, learn about the shop's history and values, view popular categories, and easily find contact information and get directions. Engaging animations powered by AOS, and vibrant design elements make CoTime both elegant and user-friendly.
 
 ### Preview
 
@@ -116,5 +115,12 @@ To get started, ensure you have [Node.js](https://nodejs.org/) and [npm](https:/
    *(Deployment uses `gh-pages` and Vite config for correct base path.)*
 
 ---
+
+## Contact
+
+- Email: ilhambouktir8@gmail.com
+- LinkedIn: [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)
+- GitHub: https://github.com/ilham-bouk
+- Portfolio: [Ilham Bouktir](https://ilham-bouk.github.io/ilhambouktir/)
 
 For any questions, reach out via GitHub Issues!
