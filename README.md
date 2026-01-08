@@ -1,25 +1,58 @@
-# CoTime
+# CoTime ☕️
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Contact](#-license)
+Welcome to **CoTime** — a stylish, responsive coffee shop web application crafted with React and Vite, designed to showcase artisan coffee, fresh pastries, and a warm in-shop experience. This project blends modern technologies with beautiful animations to provide an inviting digital storefront for a boutique coffee shop.
 
 ---
 
-## Description
+## Table of Contents
+
+- [Overview](#overview)
+  - [Preview](#preview)
+  - [Live Site](#live-site)
+  - [Features](#features)
+- [Built with](#built-with)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Show Your Support](#show-your-support)
+
+---
+
+## Overview
 
 **CoTime** is a beautifully crafted React-based web application designed to showcase an artisan coffee shop, its menu, atmosphere, and story. Built with Vite and styled using TailwindCSS, CoTime delivers a modern, responsive, and interactive single-page experience, bringing coffee culture and community spirit to the digital world.
 
 Visitors can explore featured menu items, read testimonials, learn about the shop's history and values, view product categories, and easily find contact information. Engaging animations powered by AOS, pixel-perfect layouts, and vibrant design elements make CoTime both elegant and user-friendly.
 
-## Technologies and Libraries Used
+**CoTime** replicates the ambiance of a real coffee shop, with animated sections, a vibrant menu, categories, testimonials, and elegant contact details. Users can explore menu items (coffee, tea, pastries, etc.), see popular categories, learn about the shop’s story, and connect—making it perfect for local coffee businesses wanting to establish an online presence.
+
+### Preview
+
+![CoTime Mocup](src/assets/thumbnail.png)
+
+### Live Demo
+
+Visit the live version here: [https://ilham-bouk.github.io/cotime/](https://ilham-bouk.github.io/cotime/)
+
+### Key Features
+
+- Smooth, engaging scroll-based and entry animations powered by AOS.
+- Visually appealing and accessible menu showcasing products with imagery and pricing.
+- Filterable categories with product counts.
+- Testimonials and About pages for brand storytelling.
+- Responsive layout built with Tailwind CSS and React.
+- Modern navigation and sticky header.
+- Contact section with location, phone, and email details for visitors.
+- Built for fast performance and easy hosting with Vite.
+
+
+
+
+
+## Built with
+
+### Technologies and Libraries Used
 
 - **React** (v19): UI components and state management
 - **Vite**: Lightning-fast development environment and build tooling
@@ -139,46 +172,7 @@ For any questions, reach out via GitHub Issues!
 
 
 
-# CoTime ☕️
 
-Welcome to **CoTime** — a stylish, responsive coffee shop web application crafted with React and Vite, designed to showcase artisan coffee, fresh pastries, and a warm in-shop experience. This project blends modern technologies with beautiful animations to provide an inviting digital storefront for a boutique coffee shop.
-
-![CoTime Hero](public/hero-illustration.png) <!-- Update if image path or splash is available -->
-
----
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Live Demo](#live-demo)
-- [Technologies & Libraries Used](#technologies--libraries-used)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Project Description
-
-**CoTime** replicates the ambiance of a real coffee shop, with animated sections, a vibrant menu, categories, testimonials, and elegant contact details. Users can explore menu items (coffee, tea, pastries, etc.), see popular categories, learn about the shop’s story, and connect—making it perfect for local coffee businesses wanting to establish an online presence.
-
-**Key Features:**
-- Smooth, engaging scroll-based and entry animations powered by AOS.
-- Visually appealing and accessible menu showcasing products with imagery and pricing.
-- Filterable categories with product counts.
-- Testimonials and About pages for brand storytelling.
-- Responsive layout built with Tailwind CSS and React.
-- Modern navigation and sticky header.
-- Contact section with location, phone, and email details for visitors.
-- Built for fast performance and easy hosting with Vite.
-
----
-
-## Live Demo
-
-Visit the live version here: [https://ilham-bouk.github.io/cotime/](https://ilham-bouk.github.io/cotime/)
 
 ---
 
@@ -264,20 +258,6 @@ To run this project locally, ensure you have [Node.js](https://nodejs.org/) inst
 - **Learn About Us:** Read the origin story and values in the "About" section, enhanced with custom icons and images.
 - **Contact:** Access address, phone, and email in a clear, animated contact area.
 - **Responsive:** Try it on mobile and desktop — UI adapts seamlessly for all screens.
-
----
-
-## Contributing
-
-Contributions are welcome! To get started:
-
-1. [Fork this repository](https://github.com/ilham-bouk/cotime/fork).
-2. Create a new branch: `git checkout -b feature/your-contribution`
-3. Make your changes and commit: `git commit -m 'Add your feature'`
-4. Push to your fork: `git push origin feature/your-contribution`
-5. Submit a [pull request](https://github.com/ilham-bouk/cotime/pulls).
-
-Please follow the existing code style, and ensure all code passes ESLint (`npm run lint`) before submitting.
 
 ---
 
